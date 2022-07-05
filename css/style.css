@@ -1,0 +1,18 @@
+body{
+    height: 100%;
+    background-color: gray;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    margin: 0 5px;
+    font-size: 3rem;
+    font-family: monospace;
+    text-align: center;
+    font-weight: 400;
+    border-bottom: 5px solid blue;
+    border-width: 100%;
+    text-transform: uppercase;
+    color: yellow;
+    padding: 0 20px;
+}
